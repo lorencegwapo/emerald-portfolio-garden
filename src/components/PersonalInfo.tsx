@@ -27,10 +27,10 @@ export const PersonalInfo = () => {
               <div>
                 <h3 className="font-semibold text-green-800 mb-2">Basic Information</h3>
                 <div className="space-y-2 text-gray-600">
-                  <p><strong>Name:</strong> John Doe</p>
-                  <p><strong>Location:</strong> New York, NY</p>
-                  <p><strong>Email:</strong> john.doe@example.com</p>
-                  <p><strong>Phone:</strong> (555) 123-4567</p>
+                  <p><strong>Name:</strong> Lorence Alfanta </p>
+                  <p><strong>Location:</strong> Gusa , CDOC</p>
+                  <p><strong>Email:</strong> alfantalorence@gmail.com</p>
+                  <p><strong>Phone:</strong> +63 994 226 5996 </p>
                 </div>
               </div>
               

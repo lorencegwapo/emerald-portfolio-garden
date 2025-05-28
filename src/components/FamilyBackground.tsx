@@ -47,36 +47,39 @@ export const FamilyBackground = () => {
         
         <Card className="border-green-200 hover:shadow-lg transition-shadow duration-300">
           <CardHeader className="bg-gradient-to-r from-green-500 to-emerald-600 text-white">
-            <CardTitle>Family Influence</CardTitle>
+            <CardTitle>Family</CardTitle>
           </CardHeader>
           <CardContent className="p-6">
             <div className="space-y-4">
               <div>
-                <h3 className="font-semibold text-green-800 mb-2">Parents</h3>
+                <h3 className="font-semibold text-green-800 mb-2">Mother</h3>
                 <p className="text-gray-600">
-                  My father is a retired engineer who taught me logical thinking and 
-                  problem-solving. My mother, a former teacher, instilled in me the 
-                  love for learning and helping others.
+                  Jessica Alfanta
+                </p>
+              </div>
+
+              <div>
+                <h3 className="font-semibold text-green-800 mb-2">Father</h3>
+                <p className="text-gray-600">
+                  Peter P Alfanta.
                 </p>
               </div>
               
               <div>
-                <h3 className="font-semibold text-green-800 mb-2">Siblings</h3>
+                <h3 className="font-semibold text-green-800 mb-2">OldestBrother</h3>
                 <p className="text-gray-600">
-                  I'm the middle child of three siblings. My older sister is a doctor, 
-                  and my younger brother is an artist. This diverse environment taught 
-                  me to appreciate different perspectives and approaches to life.
+                  John Clyde Alfanta
+                </p>
+              </div>
+
+               <div>
+                <h3 className="font-semibold text-green-800 mb-2">Older Brother</h3>
+                <p className="text-gray-600">
+                  Pj Paul Alfanta
                 </p>
               </div>
               
-              <div>
-                <h3 className="font-semibold text-green-800 mb-2">Impact on Career</h3>
-                <p className="text-gray-600">
-                  The blend of technical thinking from my father and educational passion 
-                  from my mother led me to pursue technology as a means to educate and 
-                  empower others.
-                </p>
-              </div>
+        
             </div>
           </CardContent>
         </Card>
